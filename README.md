@@ -8,7 +8,7 @@
 ## Setup
 - Put "Panacea_Drums" and "!BugGrabber" in the AddOns folder.
 - World of Warcraft\Interface\Addons\Panacea_Drums
-- World of Warcraft\Interface\Addons\!BugGrabber
+- World of Warcraft\Interface\Addons\\!BugGrabber
 
 ## What this addon can do:
 
