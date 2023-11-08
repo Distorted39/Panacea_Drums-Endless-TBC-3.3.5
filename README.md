@@ -6,7 +6,7 @@
 ## [Download Here](https://github.com/Distorted39/Panacea_Drums-Endless-TBC-3.3.5/archive/refs/heads/master.zip)
   
 ## Setup
-- Put "Panacea_Drums" in the AddOns folder.
+- Put "Panacea_Drums" and "!BugGrabber" in the AddOns folder.
 - World of Warcraft\Interface\Addons\Panacea_Drums
 - World of Warcraft\Interface\Addons\!BugGrabber
 
